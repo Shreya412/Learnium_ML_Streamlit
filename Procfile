@@ -1,1 +1,1 @@
-web:sh setup.sh && streamlit run learnium.py
+web: sh setup.sh && streamlit run learnium.py
